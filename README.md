@@ -88,6 +88,7 @@ The project includes an optional AI layer that can analyze scraped data for:
 ## 📸 Screenshots
 
 *Add screenshots or terminal outputs of the scraper working, if available.*
+hi
 
 ## 🤝 Contributing
 
